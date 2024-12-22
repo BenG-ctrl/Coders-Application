@@ -14,7 +14,7 @@ export default function Challenges() {
           <button>math</button>
         </div>
         <div className="grid grid-cols-5 grid-rows-3 border-2 gap-10 w-3/4 absolute z-1 translate-y-[100%] mt-10 shadow-lg">
-          <div className="grid-cols-1 ml-10">Status</div>
+          <div className="grid-cols-1 ml-10 bg-dark-background">Status</div>
           <div className="grid-cols-1">Title</div>
           <div className="grid-cols-1">Category</div>
           <div className="grid-cols-1">Difficulty</div>

@@ -4,13 +4,18 @@
 
 @layer base {
   :root {
-    --color-text-base: 255, 255, 255;
-    --color-text-muted: 199, 210, 254;
-    --color-text-inverted: 79, 70, 229;
-    --color-fill: 67, 56, 202;
-    --color-button-accent: 255, 255, 255;
-    --color-button-accent-hover: 238, 242, 255;
-    --color-button-muted: 99, 102, 241;
+    --main: #23155b;
+    --primary: #8053ff;
+    --gray: #817d8e;
+    --background: #f4f4f4;
+    --white: #ffffff;
+    --blue: #1983f0;
+    --lightMode: #cbd5e1;
+    --darkMode: #4322c9a3;
+    --black: #000000a3;
+    --green: #3cff00a3;
+    --red: #ff0000a3;
+    --orange: #f07c00a3;
   }
   .theme-swiss {
     --color-text-base: 255, 255, 255;
